@@ -1,0 +1,53 @@
+{
+    "app": "REDGIM",
+    "version": "2.6.0.debug",
+    "shots": [
+        {
+            "tag": "main:btn_compare",
+            "file": "main_btn_compare.png",
+            "width": 477,
+            "height": 321,
+            "caption": {
+                "title": "Modo Comparativo",
+                "description": "Use este para separar ou identificar amostras em categorias, procurando agrupamentos naturais entre elas."
+            }
+        },
+        {
+            "tag": "main:btn_open",
+            "file": "main_btn_open.png",
+            "width": 996,
+            "height": 155,
+            "caption": {
+                "title": "Abrir uma análise",
+                "description": "Suas análises salvas ficam aqui. Reabra uma para rever os resultados ou acrescentar novas imagens."
+            }
+        },
+        {
+            "tag": "main:btn_predict",
+            "file": "main_btn_predict.png",
+            "width": 477,
+            "height": 321,
+            "caption": {
+                "title": "Modo Previsão",
+                "description": "Comece por aqui para estimar valores — como a concentração — a partir da cor das amostras, usando uma curva de calibração."
+            }
+        },
+        {
+            "tag": "main:btn_wizard",
+            "file": "main_btn_wizard.png",
+            "width": 996,
+            "height": 152,
+            "caption": {
+                "title": "Começar uma análise",
+                "description": "O assistente completo, passo a passo: ele conduz por todas as configurações, da captura ao resultado."
+            }
+        },
+        {
+            "tag": "main:screen",
+            "file": "main_screen.png",
+            "width": 1080,
+            "height": 2337,
+            "caption": null
+        }
+    ]
+}
