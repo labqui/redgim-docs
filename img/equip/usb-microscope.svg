@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" role="img" aria-label="Microscopio digital USB portatil">
+  <g fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- corpo cilíndrico de mão -->
+    <path d="M74 24h34a10 10 0 0 1 10 10v42H64V34a10 10 0 0 1 10-10z"/>
+    <!-- anel de foco: o que se gira para focar -->
+    <path d="M64 50h54"/>
+    <path d="M64 62h54"/>
+    <!-- afunilamento até a objetiva -->
+    <path d="M64 76h54l-14 20H78z"/>
+    <!-- anel de LEDs em volta da objetiva, a marca deste equipamento -->
+    <ellipse cx="91" cy="102" rx="20" ry="7"/>
+    <circle cx="75" cy="102" r="1.8" fill="currentColor"/>
+    <circle cx="107" cy="102" r="1.8" fill="currentColor"/>
+    <circle cx="91" cy="96" r="1.8" fill="currentColor"/>
+    <circle cx="91" cy="108" r="1.8" fill="currentColor"/>
+    <!-- cabo saindo do topo e conector USB -->
+    <path d="M91 24v-8h32c9 0 14 5 14 13v9"/>
+    <path d="M131 38h12v14h-12z"/>
+    <path d="M137 52v6"/>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkredgim_manual||=[]).push([[8491],{8491(e,a,c){c.d(a,{createPacketServices:()=>r.$});var r=c(9773);c(1400)}}]);
