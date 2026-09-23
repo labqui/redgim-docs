@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" role="img" aria-label="Camera USB convencional">
+  <g fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- corpo -->
+    <path d="M46 26h72a10 10 0 0 1 10 10v46a10 10 0 0 1-10 10H46a10 10 0 0 1-10-10V36a10 10 0 0 1 10-10z"/>
+    <!-- objetiva -->
+    <circle cx="82" cy="59" r="20"/>
+    <circle cx="82" cy="59" r="9"/>
+    <!-- luz de atividade -->
+    <circle cx="116" cy="38" r="3" fill="currentColor"/>
+    <!-- pé de apoio -->
+    <path d="M70 92v14h24V92"/>
+    <path d="M56 114h52"/>
+    <!-- cabo e conector USB -->
+    <path d="M128 59h16c8 0 12 4 12 12v3"/>
+    <path d="M150 74h12v14h-12z"/>
+    <path d="M156 88v6"/>
+  </g>
+</svg>

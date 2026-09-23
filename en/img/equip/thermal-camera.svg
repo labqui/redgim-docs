@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" role="img" aria-label="Camera termica">
+  <g fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- alça, que é o que distingue a silhueta de uma câmera térmica de mão -->
+    <path d="M64 26h30a8 8 0 0 1 8 8v6"/>
+    <!-- corpo -->
+    <path d="M50 40h84a10 10 0 0 1 10 10v50a10 10 0 0 1-10 10H50a10 10 0 0 1-10-10V50a10 10 0 0 1 10-10z"/>
+    <!-- objetiva -->
+    <circle cx="74" cy="75" r="20"/>
+    <circle cx="74" cy="75" r="8"/>
+    <!-- escala de temperatura ao lado, dividida em faixas -->
+    <path d="M110 56h20v38h-20z"/>
+    <path d="M110 66h20"/>
+    <path d="M110 76h20"/>
+    <path d="M110 85h20"/>
+    <!-- cabo e conector USB -->
+    <path d="M144 75h12c9 0 14 5 14 13v6"/>
+    <path d="M164 94h12v14h-12z"/>
+    <path d="M170 108v6"/>
+  </g>
+</svg>

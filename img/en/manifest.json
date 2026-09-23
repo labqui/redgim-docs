@@ -1,0 +1,53 @@
+{
+    "app": "REDGIM",
+    "version": "2.6.0.debug",
+    "shots": [
+        {
+            "tag": "main:btn_compare",
+            "file": "main_btn_compare.png",
+            "width": 477,
+            "height": 321,
+            "caption": {
+                "title": "Comparative Mode",
+                "description": "Use this one to separate or identify samples by category, looking for natural groupings between them."
+            }
+        },
+        {
+            "tag": "main:btn_open",
+            "file": "main_btn_open.png",
+            "width": 996,
+            "height": 155,
+            "caption": {
+                "title": "Open an analysis",
+                "description": "Your saved analyses live here. Reopen one to review the results or add new images."
+            }
+        },
+        {
+            "tag": "main:btn_predict",
+            "file": "main_btn_predict.png",
+            "width": 477,
+            "height": 321,
+            "caption": {
+                "title": "Prediction Mode",
+                "description": "Start here to estimate values - such as concentration - from the color of your samples, using a calibration curve."
+            }
+        },
+        {
+            "tag": "main:btn_wizard",
+            "file": "main_btn_wizard.png",
+            "width": 996,
+            "height": 152,
+            "caption": {
+                "title": "Start an analysis",
+                "description": "The full step-by-step wizard: it walks you through every setting, from capture to result."
+            }
+        },
+        {
+            "tag": "main:screen",
+            "file": "main_screen.png",
+            "width": 1080,
+            "height": 2337,
+            "caption": null
+        }
+    ]
+}

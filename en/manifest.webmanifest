@@ -1,0 +1,46 @@
+{
+  "name": "REDGIM - Manual e visualizador",
+  "short_name": "REDGIM Docs",
+  "description": "Manual do usuário do REDGIM e visualizador de arquivos .gim que roda no navegador.",
+  "start_url": "/redgim-docs/",
+  "scope": "/redgim-docs/",
+  "display": "standalone",
+  "background_color": "#1c2321",
+  "theme_color": "#3f6b63",
+  "icons": [
+    {
+      "src": "/redgim-docs/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/redgim-docs/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/redgim-docs/img/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "share_target": {
+    "action": "/redgim-docs/viewer/",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url",
+      "files": [
+        {
+          "name": "gim",
+          "accept": [".gim", "application/zip", "application/octet-stream", "application/vnd.groove-identity-message"]
+        }
+      ]
+    }
+  }
+}

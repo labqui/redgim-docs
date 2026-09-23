@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" role="img" aria-label="Microscopio optico com camera USB">
+  <g fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- base -->
+    <path d="M48 128h96"/>
+    <path d="M74 128v-8h44v8"/>
+    <!-- coluna e braço em C, que segura o tubo -->
+    <path d="M118 120V80c0-12-8-19-20-20"/>
+    <!-- tubo -->
+    <path d="M84 34h26v26H84z"/>
+    <!-- câmera acoplada no topo -->
+    <path d="M80 14h34v20H80z"/>
+    <!-- cabo e conector USB -->
+    <path d="M114 24h20c9 0 14 5 14 13v7"/>
+    <path d="M142 44h12v14h-12z"/>
+    <path d="M148 58v6"/>
+    <!-- objetiva -->
+    <path d="M91 60h12l-3 12h-6z"/>
+    <!-- platina com a lâmina -->
+    <path d="M58 88h62"/>
+    <path d="M84 82h24v6H84z"/>
+    <!-- botão de foco -->
+    <circle cx="118" cy="100" r="7"/>
+  </g>
+</svg>
